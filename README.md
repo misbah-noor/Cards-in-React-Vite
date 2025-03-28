@@ -20,7 +20,7 @@ This is a simple project where I created *responsive cards* using *React, Vite, 
 ## 🔧 How to Run the Project
 1. Clone the repository:  
    sh
-   git clone https://github.com/misbah-noor/Cards-in-React-Vite.gi/t
+   git clone https://github.com/misbah-noor/Cards-in-React-Vite.git
    
 2. Open the project folder:  
    sh
